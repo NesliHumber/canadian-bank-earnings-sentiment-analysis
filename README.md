@@ -16,6 +16,10 @@ Banks:
 3. What topics dominate earnings calls?
 4. How do communication patterns differ among banks?
 
+## Data
+
+[Dataset Folder]( https://drive.google.com/drive/folders/1cWyTpSPzoU-UtYSLDXg03ASOoeCjojeR?usp=drive_link)
+
 ## Methods
 
 - Text Cleaning
