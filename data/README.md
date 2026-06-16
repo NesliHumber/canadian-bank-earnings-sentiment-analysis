@@ -13,12 +13,12 @@ Dataset Contents:
 
 Directory Structure:
 
+```text
 canadian-bank-earnings-sentiment-analysis/
-│
 ├── raw/
 │   ├── RBC/
 │   ├── TD/
 │   └── Scotiabank/
-│
 └── processed/
+```
 
