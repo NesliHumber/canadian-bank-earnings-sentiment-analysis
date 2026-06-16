@@ -1,0 +1,129 @@
+GROUP PROJECT OVERVIEW
+======================
+
+The group project allows students to apply text mining and sentiment analysis
+techniques in a real-world business analytics context.
+
+Students will form their own groups, select a relevant text dataset, and perform
+in-depth analysis using methods learned in class.
+
+The goal is to generate insights that could inform business decisions,
+demonstrate technical competence, and effectively communicate findings.
+
+
+CODE
+====
+
+You will use Python throughout the term to complete your group project.
+
+You will need to share your code with the Professor using a public GitHub
+repository.
+
+
+GROUP FORMATION
+===============
+
+- Groups must consist of 1 to 6 students.
+- Groups are self-formed; you are responsible for organizing your team.
+- Project scope and depth should scale with group size.
+- Larger groups are expected to demonstrate more ambitious analysis and
+  deliverables.
+
+
+PROJECT TOPIC AND DATASET
+=========================
+
+Each group must select a text-based dataset relevant to business or industry.
+
+Examples:
+- Customer reviews
+- Social media data
+- Product descriptions
+- News articles
+- Earnings call transcripts
+
+Places to find good datasets:
+
+1. NLP Datasets by niderhoff
+2. Awesome Public Datasets by awesomedata
+3. Stanford NLP Resources
+4. Kaggle Datasets
+5. Google Dataset Search
+6. Hugging Face Datasets
+7. data.world
+8. UCI Machine Learning Repository
+9. Registry of Open Data on AWS
+10. Reddit Datasets Subreddit
+11. DataHub.io
+12. OpenML
+13. Zenodo
+14. Data.gov
+15. Microsoft Academic
+16. Common Crawl
+17. NLTK Data
+18. Corpus.tools
+19. Papers with Code Datasets
+
+
+DELIVERABLES
+============
+
+1. PROJECT PROPOSAL
+-------------------
+
+A 1-to-2-page document outlining:
+
+- Group members
+- Project title
+- Dataset description and source
+- Business problem or question
+- Planned methods and tools
+
+Each group must meet with the Professor to discuss their Proposal during Week 7.
+
+
+2. MILESTONE
+------------
+
+A 2-to-3-page document outlining:
+
+- Group members
+- Project title
+- Dataset description and source
+- Business problem or question
+- Overview of work done so far
+- Plan for remaining work
+- Link to a public GitHub repository containing your code
+
+Each group must meet with the Professor to discuss their Milestone during
+Week 12.
+
+
+3. REPORT
+---------
+
+A 4-to-5-page report (plus appendix if needed) containing:
+
+- Group members
+- Project title
+- Dataset description and source
+- Business problem or question
+- Methodology
+- Results and evaluation
+- Discussion of challenges, limitations, and potential improvements
+- Link to a public GitHub repository containing your code
+
+Reports are due in Week 13.
+
+
+4. PRESENTATION
+---------------
+
+A 10-minute presentation reviewing the content of your Report.
+
+Presentations may be:
+- In-person
+- Online
+- Pre-recorded
+
+Presentations are due in Week 13.
